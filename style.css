@@ -1,0 +1,23 @@
+.box{
+    /* padding-right: 950px; */
+    padding-left: 10px;
+    margin-right: 60px;
+    border: 1px solid rgb(184, 179, 179);
+    width:375px ;
+    box-shadow: 1px 2px 1px 1px rgb(184, 179, 179);
+    
+
+}
+.image{
+    width: 363px;
+    padding-bottom: 5px;
+    
+}
+.explain{
+    border: 1px solid rgb(184, 179, 179);
+    padding-bottom: 10px;
+    width: 350px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
